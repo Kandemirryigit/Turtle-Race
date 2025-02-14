@@ -14,4 +14,4 @@
 <hr/>
 
 <h1>How Works?</h1>
--Firstly you should answer the question,Which turtle is going to win the race?,of course you don't have any idea and this is just a guess you don't need any information.The turtles are racing and one of them is going to win the race.And in the ned of the race if you guessed right the turtle is going to write right else gonna write wrong.
+-Firstly you should answer the question,Which turtle is going to win the race?,of course you don't have any idea and this is just a guess you don't need any information.The turtles are racing and one of them is going to win the race.And in the end of the race if you guessed right the turtle is going to write right else gonna write wrong.
